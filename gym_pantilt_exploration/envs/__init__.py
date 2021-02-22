@@ -1,0 +1,1 @@
+from gym_pantilt_exploration.envs.pantilt_env import PanTiltEnv
